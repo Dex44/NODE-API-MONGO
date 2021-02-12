@@ -1,0 +1,59 @@
+{
+    "users":{
+        "find":{
+            "200": "User fetched Sucessfully",
+            "400": "Bad Request",
+            "401": "Unauthorised",
+            "403": "Forbiden",
+            "404": "Data Not Found",
+            "409": "Resource Conflict",
+            "500": "Internal Server error Mukesh"
+        },
+        "search":{
+            "200": "User Searched Sucessfully",
+            "400": "Bad Request",
+            "401": "Unauthorised",
+            "403": "Forbiden",
+            "404": "Data Not Found",
+            "409": "Resource Conflict",
+            "500": "Internal Server error"
+        },
+        "save":{
+            "200": "User Saved Sucessfully",
+            "400": "Bad Request",
+            "401": "Unauthorised",
+            "403": "Forbiden",
+            "404": "Data Not Found",
+            "409": "Resource Conflict",
+            "500": "Internal Server error"
+        },
+        "update": {
+            "200": "User Updated Sucessfully",
+            "400": "Bad Request",
+            "401": "Unauthorised",
+            "403": "Forbiden",
+            "404": "Data Not Found",
+            "409": "Resource Conflict",
+            "500": "Internal Server error"
+        },
+        "delete":{
+            "200": "User deleted Sucessfully",
+            "400": "Bad Request",
+            "401": "Unauthorised",
+            "403": "Forbiden",
+            "404": "Data Not Found",
+            "409": "Resource Conflict",
+            "500": "Internal Server error"
+        },
+        "check":{
+            "200": "User Checked Sucessfully UserId and Password Exits",
+            "204": "UserId or Password Does Not Exits",
+            "400": "Bad Request",
+            "401": "Unauthorised",
+            "403": "Forbiden",
+            "404": "Data Not Found",
+            "409": "Resource Conflict",
+            "500": "Internal Server error"
+        }
+    }
+}

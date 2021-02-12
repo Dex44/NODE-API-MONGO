@@ -1,0 +1,28 @@
+{
+    "mongodb": {
+        "localhost": {
+            "user": "Mukesh",
+            "password": "Mukesh44",
+            "host": "cluster0-shard-00-02.gf7qq.mongodb.net",
+            "port": 27017,
+            "database": "nodeTest",
+            "dialect": "mongodb"
+        },
+        "development": {
+            "user": "Mukesh",
+            "password": "Mukesh44",
+            "host": "cluster0-shard-00-02.gf7qq.mongodb.net",
+            "port": 27017,
+            "database": "nodeTest",
+            "dialect": "mongodb"
+        },
+        "production": {
+            "user": "Mukesh",
+            "password": "Mukesh44",
+            "host": "cluster0-shard-00-02.gf7qq.mongodb.net",
+            "port": 27017,
+            "database": "nodeTest",
+            "dialect": "mongodb"
+        }
+    }
+}
